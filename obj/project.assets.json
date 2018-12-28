@@ -11508,11 +11508,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Work\\_ASP CORE ANGULAR TEMPLATES\\ng6core2.1\\fullControl\\fullControl.csproj",
+      "projectUniqueName": "D:\\Work\\_ASP CORE ANGULAR TEMPLATES\\ng6core2.1\\.netAngularCore\\fullControl.csproj",
       "projectName": "fullControl",
-      "projectPath": "d:\\Work\\_ASP CORE ANGULAR TEMPLATES\\ng6core2.1\\fullControl\\fullControl.csproj",
+      "projectPath": "D:\\Work\\_ASP CORE ANGULAR TEMPLATES\\ng6core2.1\\.netAngularCore\\fullControl.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "d:\\Work\\_ASP CORE ANGULAR TEMPLATES\\ng6core2.1\\fullControl\\obj\\",
+      "outputPath": "D:\\Work\\_ASP CORE ANGULAR TEMPLATES\\ng6core2.1\\.netAngularCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

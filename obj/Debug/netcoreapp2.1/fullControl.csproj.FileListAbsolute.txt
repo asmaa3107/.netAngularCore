@@ -26,3 +26,17 @@ D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\fullControl\bin\Debug\netcoreapp2
 D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\fullControl\obj\Debug\netcoreapp2.1\fullControl.RazorTargetAssemblyInfo.cache
 D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\fullControl\obj\Debug\netcoreapp2.1\fullControl.dll
 D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\fullControl\obj\Debug\netcoreapp2.1\fullControl.pdb
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\bin\Debug\netcoreapp2.1\fullControl.deps.json
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\bin\Debug\netcoreapp2.1\fullControl.runtimeconfig.json
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\bin\Debug\netcoreapp2.1\fullControl.runtimeconfig.dev.json
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\bin\Debug\netcoreapp2.1\fullControl.dll
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\bin\Debug\netcoreapp2.1\fullControl.pdb
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.csprojAssemblyReference.cache
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.csproj.CoreCompileInputs.cache
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.RazorAssemblyInfo.cache
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.RazorAssemblyInfo.cs
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.AssemblyInfoInputs.cache
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.AssemblyInfo.cs
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.RazorTargetAssemblyInfo.cache
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.dll
+D:\Work\_ASP CORE ANGULAR TEMPLATES\ng6core2.1\.netAngularCore\obj\Debug\netcoreapp2.1\fullControl.pdb
