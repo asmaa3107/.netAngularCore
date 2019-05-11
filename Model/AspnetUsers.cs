@@ -12,7 +12,7 @@ namespace fullControl.Model
             AspnetUsersInRoles = new HashSet<AspnetUsersInRoles>();
             Comment = new HashSet<Comment>();
             FeedBack = new HashSet<FeedBack>();
-            Orders = new HashSet<Orders>();
+            Orders = new HashSet<Orders>(); 
         }
 
         public Guid ApplicationId { get; set; }

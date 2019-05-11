@@ -12,3 +12,9 @@ select
 from sys.server_principals
 where name = suser_name()
 //data source=OWNER\SQLEXPRESS;initial catalog=master;trusted_connection=true
+
+//to geneate talbe from sql db
+Scaffold-DbContext "Server=localhost\SQLEXPRESS;Database=orders_database;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+//token package
+dotnet add package System.IdentityModel.Tokens.Jwt --version 5.4.0
